@@ -9,5 +9,4 @@ eventKey.innerText = event.key;
 eventWhich.innerText = event.which;
 eventCode.innerText = event.code;
 eventKey2.innerText = event.which;
-
 })
